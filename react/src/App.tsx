@@ -22,7 +22,7 @@ function App() {
       <div className="home__loop">
         <CurvedLoop
           marqueeText="Eu ✦ Te ✦ Amo ✦ Muito ✦"
-          speed={2}
+          speed={4}
           curveAmount={200}
           direction="left"
           interactive
